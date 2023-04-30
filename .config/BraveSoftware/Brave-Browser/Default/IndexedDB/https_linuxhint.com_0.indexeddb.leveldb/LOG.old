@@ -1,0 +1,6 @@
+2023/04/25-10:51:48.298 1a2f Creating DB /home/vylssius/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/04/25-10:51:48.300 1a2f Reusing MANIFEST /home/vylssius/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/25-10:51:52.327 1a2f Level-0 table #5: started
+2023/04/25-10:51:52.328 1a2f Level-0 table #5: 4707 bytes OK
+2023/04/25-10:51:52.329 1a2f Delete type=0 #3
+2023/04/25-10:51:52.329 1a2f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

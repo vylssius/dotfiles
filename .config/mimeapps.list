@@ -1,0 +1,4 @@
+
+[Default Applications]
+x-scheme-handler/nxm=/home/vylssius/.local/share/applications/vortex-downloads-handler.desktop
+x-scheme-handler/nxm-protocol=/home/vylssius/.local/share/applications/vortex-downloads-handler.desktop

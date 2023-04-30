@@ -1,0 +1,21 @@
+2023/04/29-22:53:29.294 444 Reusing MANIFEST /home/vylssius/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/29-22:53:29.294 444 Recovering log #151
+2023/04/29-22:53:29.310 444 Reusing old log /home/vylssius/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000151.log 
+2023/04/29-23:07:16.667 444 Level-0 table #156: started
+2023/04/29-23:07:16.678 444 Level-0 table #156: 1175864 bytes OK
+2023/04/29-23:07:16.679 444 Delete type=0 #151
+2023/04/30-00:01:29.096 443 Compacting 1@1 + 1@2 files
+2023/04/30-00:01:29.109 443 Generated table #157@1: 516 keys, 55843 bytes
+2023/04/30-00:01:29.109 443 Compacted 1@1 + 1@2 files => 55843 bytes
+2023/04/30-00:01:29.110 443 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/30-01:08:48.781 444 Level-0 table #159: started
+2023/04/30-01:08:48.794 444 Level-0 table #159: 1272614 bytes OK
+2023/04/30-01:08:48.795 444 Delete type=2 #153
+2023/04/30-01:08:48.795 444 Delete type=2 #156
+2023/04/30-01:08:48.795 444 Delete type=0 #155
+2023/04/30-01:15:00.292 443 Compacting 1@1 + 1@2 files
+2023/04/30-01:15:00.295 443 Generated table #160@1: 547 keys, 53299 bytes
+2023/04/30-01:15:00.295 443 Compacted 1@1 + 1@2 files => 53299 bytes
+2023/04/30-01:15:00.296 443 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/30-01:15:00.296 443 Delete type=2 #157
+2023/04/30-01:15:00.296 443 Delete type=2 #159

@@ -1,0 +1,76 @@
+{
+   "checksum": "acb1b5ba9f8f37d139e8eb8c94975e8b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13325876667000000",
+            "date_last_used": "0",
+            "guid": "e92ba275-3839-4c53-ae85-37378408e28e",
+            "id": "6",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13325951081000000",
+            "date_last_used": "13327364464245246",
+            "guid": "6c34840f-e38c-4915-8ca2-3a7491fae7ee",
+            "id": "7",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13326496971000000",
+            "date_last_used": "0",
+            "guid": "cdeff48a-2e19-4862-9704-568e007d9d9e",
+            "id": "8",
+            "name": "Watch When Supernatural Battles Became Commonplace Anime Online | 9Anime",
+            "type": "url",
+            "url": "https://9anime.to/watch/when-supernatural-battles-became-commonplace.9o9m/ep-1"
+         }, {
+            "date_added": "13326515772000000",
+            "date_last_used": "0",
+            "guid": "3484b83a-f166-460d-9e56-259e3aeeffa8",
+            "id": "9",
+            "name": "Hack The Box :: Dashboard",
+            "type": "url",
+            "url": "https://app.hackthebox.com/home"
+         }, {
+            "date_added": "13326847105000000",
+            "date_last_used": "13327364456610411",
+            "guid": "88552384-75d0-4322-a13f-ac0317a4bee1",
+            "id": "10",
+            "name": "GitHub - adi1090x/polybar-themes: A huge collection of polybar themes with different styles, colors and variants.",
+            "type": "url",
+            "url": "https://github.com/adi1090x/polybar-themes"
+         } ],
+         "date_added": "13326899382195573",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13326899382195575",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13326899382195576",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

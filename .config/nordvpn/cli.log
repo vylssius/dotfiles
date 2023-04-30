@@ -1,0 +1,11 @@
+2023/04/19 11:10:09 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/04/19 11:11:01 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/04/19 11:12:05 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: no such file or directory"
+2023/04/19 11:25:59 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/04/19 11:27:28 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /run/nordvpn/nordvpnd.sock: connect: no such file or directory"
+2023/04/20 17:43:46 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/04/20 18:48:39 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/04/20 19:32:05 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/04/22 21:12:14 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/04/24 14:23:39 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/04/27 17:09:59 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.

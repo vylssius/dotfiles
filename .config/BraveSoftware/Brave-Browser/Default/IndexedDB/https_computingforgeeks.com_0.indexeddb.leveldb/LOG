@@ -1,0 +1,7 @@
+2023/04/30-16:47:21.227 4af Reusing MANIFEST /home/vylssius/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_computingforgeeks.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/30-16:47:21.227 4af Recovering log #3
+2023/04/30-16:47:21.227 4af Reusing old log /home/vylssius/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_computingforgeeks.com_0.indexeddb.leveldb/000003.log 
+2023/04/30-17:28:43.851 4b0 Level-0 table #5: started
+2023/04/30-17:28:43.852 4b0 Level-0 table #5: 832 bytes OK
+2023/04/30-17:28:43.853 4b0 Delete type=0 #3
+2023/04/30-17:28:43.853 4b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
